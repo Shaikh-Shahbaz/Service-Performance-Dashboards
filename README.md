@@ -1,5 +1,10 @@
 # Service-Performance-Dashboards
-## Step 1 - Preparing the data for the dashboard :
+## How to use this Repo?
+  1. Clone the repository.
+  2. To continue working / view on the data preparation, open the "city_of_toronto_assignment.tfl" file.
+  3. To continue working / view the dashboard, open the "City of Toronto Assignment.twbx" file.
+     
+## Steps for Preparing the data for the dashboard :
 
   1. Using Tableau prep to clean the data and add additional fields.
   2. Check if the date fields have the date data type.
